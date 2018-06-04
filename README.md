@@ -1,4 +1,4 @@
-#My first JavaScript
+# My first JavaScript
 
 My GitHub repo for cross-device sync while I learn **JS**
 
