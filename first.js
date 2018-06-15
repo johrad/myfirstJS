@@ -1,5 +1,5 @@
 while (true) {
-    let num = Number(prompt("gimme a number nibba"));
+    var num = Number(prompt("gimme a number nibba"));
     if (!Number.isNaN(num)){
         alert("Your number is the square root of " + num * num);
         break    
@@ -8,3 +8,4 @@ while (true) {
         alert("give me a number! Not a fucking string >:( \nTry again")
     }
 }
+console.log("Ye boi")
