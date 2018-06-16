@@ -11,6 +11,12 @@
 // console.log("Ye boi")
 //
 
-function JavaSript_run(){
-  alert("Fuck you faggot");
+function JavaScript_run(){
+  var name = prompt("what is your name brotha?");
+  if(name=="jp"){
+    alert("Your name is fucking lit boi")
+  }else(){
+    alert("Your name sucks balls!")
+  }
 }
+JavaScript_run()
