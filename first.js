@@ -12,5 +12,5 @@
 //
 
 function JavaSript_run(){
-  alert("Fuck you faggot");
+  alert("Fuck you!");
 }
