@@ -17,12 +17,34 @@ img#JS_img {
 }
 
 button#button {
-    background-color: yellow;
-    font-family: "Arial";
-    font-size: 18px;
-    font-style: bold;
-    border: none;
-    padding: 15px 40px;
-    display: block;
-    margin: 80px auto;
+  background-color: yellow;
+  font-family: "Arial";
+  font-size: 18px;
+  font-style: bold;
+  border: none;
+  padding: 15px 40px;
+  display: block;
+  margin: 80px auto;
+  cursor: pointer;
+  transition-duration: 0.13s;
+
+
 }
+
+button:hover#button{
+  transform: scale(1.1);
+}
+button#button2{
+  background-color: yellow;
+  font-family: "Arial";
+  font-size: 18px;
+  font-style: bold;
+  border: none;
+  padding: 15px 40px;
+  display: block;
+  margin: -55px auto;
+  cursor: pointer;
+  transition-duration: 0.13s;
+}
+button:hover#button2{
+  transform: scale(1.1);
