@@ -1,5 +1,8 @@
 // insert cool comment here
+function Load_log(){
+  console.log("Website loaded successfully")
+}
+
 function JavaScript_run(){
-  alert("Oh, hello there");
-  alert("Obi-Wan Kenobi")
+  alert("sup")
 }
